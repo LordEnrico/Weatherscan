@@ -5,10 +5,10 @@ var map_key = '';
 
 //Apperance settings. Fields left blank will use defaults. Will only refresh upon reload.
 var apperanceSettings = {
-  iconSet:"2010", //2007 or 2010
-  serialNumber:"",// Ex. "TWCS02983932"
-  headinID:"", // Ex. "0298393223"
-  affilateName:"Midco",// Ex. "Comcast"
+  iconSet:"2007", //2007 or 2010
+  serialNumber:"TWC02983427",// Ex. "TWCS02983932"
+  headinID:"001", // Ex. "0298393223"
+  affilateName:"Troy High WX",// Ex. "Comcast"
   logoURL:"", //image size must be 879*184px or similar aspect ratio.
   corebackgroud:"buildings", //forest, mountain, city, buildings, neighborhood, southwest, ocean. Default is buildings.
   backgroudType:"",//Set to
